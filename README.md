@@ -1,4 +1,4 @@
-# Cohn Reznick github training
+# Joe T Chapter 13 Cohn Reznick github training
 A basic repository to show the basics of commit, branch &amp; pull requests.
 
 Chapter 1
